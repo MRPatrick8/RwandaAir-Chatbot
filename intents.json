@@ -1,0 +1,215 @@
+{
+    "intents": [
+      {
+        "tag": "Greetings",
+        "patterns": [
+          "Hello",
+          "Hi",
+          "Mukomere",
+          "Good Morning",
+          "Mambo"
+        ],
+        "responses": [
+          "Hello am Ingenzi, How can I help you?",
+          "hello! how are you doing?",
+          "hi, pleasure to be of service",
+          "hi, how can I help you?"
+  
+        ]
+      },
+      {
+        "tag": "Endings",
+        "patterns": [
+          "Thank you",
+          "bye",
+          "Murakoze",
+          "Goodbye",
+          "Asante"
+        ],
+        "responses": [
+          "it was my a pleasure to be at your service!",
+          "you are always welcome!",
+          "feel free to come again anytime please!",
+          "Anytime!",
+          "happy to help!"
+        ]
+      },
+      {
+        "tag": "About RwandaAir",
+        "patterns": [
+          "What is RwandAir?"
+        ],
+        "responses": [
+          "RwandAir is the national flag carrier airline of Rwanda, based in the capital city of Kigali."
+        ]
+      },
+      {
+        "tag": "Destinations",
+        "patterns": [
+          "What destinations does RwandAir fly to?"
+        ],
+        "responses": [
+          "RwandAir operates flights to a number of destinations across Africa, Europe, and the Middle East. You can check the full list of destinations on the RwandAir website."
+        ]
+      },
+      {
+        "tag": "Booking",
+        "patterns": [
+          "How do I book a flight with RwandAir?",
+            "How do I book a flight?",
+            "How can I book a flight with RwandAir?"
+          
+        ],
+        "responses": [
+          "You can book a flight with RwandAir online on Our <a href =\"https://www.rwandair.com/\" target=\"_blank\">website</a> or by contacting their reservation center."
+        ]
+      },
+      {
+        "tag": "how do i make my essay look longer",
+        "patterns": [
+          "Guide me to how do i make my essay look longer?",
+          "Where do you get how do i make my essay look longer?",
+          "What is the link to the how do i make my essay look longer?",
+          "How do you get how do i make my essay look longer?",
+          "Who is in Charge of how do i make my essay look longer?"
+        ],
+        "responses": [
+          "You can use this link <a href =\"http://rura.rw/?how-do-i-make-my-essay-look-longer\" target=\"_blank\">here</a> for more information"
+        ]
+      },
+      {
+        "tag": "Baggage",
+        "patterns": [
+          "What is the baggage allowance for RwandAir?",
+            "What is the baggage policy of RwandAir?"
+        ],
+        "responses": [
+          "The baggage policy of RwandAir allows passengers to carry a certain amount of luggage free of charge.For more information, including size and weight restrictions, please visit the RwandAir <a href =\"https://www.rwandair.com/\" target=\"_blank\">website</a>"
+        ]
+      },
+      {
+        "tag": "Meals",
+        "patterns": [
+          "Does RwandAir offer in-flight meals?",
+            "What meals are available on RwandAir flights?"
+        ],
+        "responses": [
+          "RwandAir offers in-flight meals to its passengers on most flights. The options vary depending on the flight route and duration."
+        ]
+      },
+      {
+        "tag": "Flight cancellation",
+        "patterns": [
+          "How can I change or cancel my RwandAir flight?",
+            "How do I change or cancel my RwandAir flight?"
+        ],
+        "responses": [
+          "You can change or cancel your RwandAir flight by contacting their reservation center or through Our website. The airline's policies and fees for changes and cancellations vary and can be found on Our <a href =\"https://www.rwandair.com/\" target=\"_blank\">website</a>"
+        ]
+      },
+      {
+        "tag": "History",
+        "patterns": [
+          "What is the history of RwandAir?",
+            "How did RwandAir start?",
+            "When was RwandAir founded?",
+            "When was RwandAir established?",
+            "When was RwandAir created?",
+            "When was RwandAir founded?"
+        ],
+        "responses": [
+          "RwandAir is the national flag carrier airline of Rwanda. It was founded in 2002 with the aim of providing air transportation services and promoting the country's tourism industry."
+        ]
+      },
+      {
+        "tag": "Aircrafts",
+        "patterns": [
+          "What type of aircraft does RwandAir operate?",
+            "What aircraft does RwandAir use?",
+            "What aircraft does RwandAir fly?",
+            "What aircraft does RwandAir have?",
+            "What aircraft does RwandAir use?"
+        ],
+        "responses": [
+          "RwandAir operates a fleet of modern and efficient aircraft, including the Boeing 737 and 787 Dreamliner, and the Airbus A330."
+        ]
+      },
+      {
+        "tag": "Loyality program",
+        "patterns": [
+          "Does RwandAir offer any loyalty program?",
+            "Does RwandAir have a loyalty program?"
+        ],
+        "responses": [
+          "Yes, RwandAir operates a frequent flyer program called RwandAir Rewards, which allows passengers to earn miles and enjoy benefits such as priority check-in and lounge access."
+        ]
+      },
+      {
+        "tag": "Flight cancellation",
+        "patterns": [
+          "How can I change or cancel my RwandAir flight?",
+            "How do I change or cancel my RwandAir flight?"
+        ],
+        "responses": [
+          "You can change or cancel your RwandAir flight by contacting their reservation center or through Our website. The airline's policies and fees for changes and cancellations vary and can be found on Our <a href =\"https://www.rwandair.com/\" target=\"_blank\">website</a>"
+        ]
+      },
+      {
+        "tag": "Flight status",
+        "patterns": [
+          "How can I check my RwandAir flight status?",
+            "How do I check my RwandAir flight status?",
+            "How can I check the status of my RwandAir flight?",
+            "How do I check the status of my RwandAir flight?"
+        ],
+        "responses": [
+          "You can check the status of your RwandAir flight by visiting the airline's  <a href =\"https://www.rwandair.com/\" target=\"_blank\">website</a>, using the RwandAir mobile app, or contacting their customer service center."
+        ]
+      },
+      {
+        "tag": "Special assistance policy",
+        "patterns": [
+          "What is the policy for special assistance on RwandAir flights?"
+        ],
+        "responses": [
+          "RwandAir offers special assistance to passengers with disabilities or reduced mobility. This includes assistance with boarding, in-flight, and disembarking. To request special assistance, please contact the airline in advance of your flight."
+        ]
+      },
+      {
+        "tag": "Accompained minors policy",
+        "patterns": [
+          "What is the policy for unaccompanied minors on RwandAir flights?"
+        ],
+        "responses": [
+          "RwandAir allows minors to travel unaccompanied on their flights, but specific rules and procedures must be followed. You can find more information on the RwandAir <a href =\"https://www.rwandair.com/\" target=\"_blank\">website</a> or by contacting their customer service center."
+        ]
+      },
+      {
+        "tag": "Flight Entertainment",
+        "patterns": [
+          "Does RwandAir offer in-flight entertainment?",
+            "What in-flight entertainment is available on RwandAir flights?",
+            "What entertainment is available on RwandAir flights?"
+        ],
+        "responses": [
+          "RwandAir provides in-flight entertainment options such as movies, TV shows, and music to enhance the travel experience for its passengers. The available options may vary depending on the flight and aircraft type."
+        ]
+      },
+      {
+        "tag": "Contacts",
+        "patterns": [
+          "How can I contact RwandAir customer service?",
+            "How do I contact RwandAir customer service?",
+            "How can I contact RwandAir?",
+            "How do I contact RwandAir?",
+            "How can I contact RwandAir customer support?",
+            "How do I contact RwandAir customer support?",
+            "How can I contact RwandAir customer care?",
+            "How do I contact RwandAir customer care?"
+        ],
+        "responses": [
+          "You can contact RwandAir customer service by calling their reservation center, sending an email through our website, or reaching out to them through our social media channels. You can use this <a href =\"https://www.rwandair.com/connect-with-us/contact-us/\" target=\"_blank\">link</a> to find the contact information for each of these options."
+        ]
+      }
+    ]
+  }
