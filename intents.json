@@ -65,19 +65,6 @@
         ]
       },
       {
-        "tag": "how do i make my essay look longer",
-        "patterns": [
-          "Guide me to how do i make my essay look longer?",
-          "Where do you get how do i make my essay look longer?",
-          "What is the link to the how do i make my essay look longer?",
-          "How do you get how do i make my essay look longer?",
-          "Who is in Charge of how do i make my essay look longer?"
-        ],
-        "responses": [
-          "You can use this link <a href =\"http://rura.rw/?how-do-i-make-my-essay-look-longer\" target=\"_blank\">here</a> for more information"
-        ]
-      },
-      {
         "tag": "Baggage",
         "patterns": [
           "What is the baggage allowance for RwandAir?",
